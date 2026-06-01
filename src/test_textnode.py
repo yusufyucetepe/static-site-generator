@@ -1,6 +1,7 @@
 import unittest
 from textnode import TextNode, TextType
 from textnode import text_node_to_html_node, split_nodes_delimiter, extract_markdown_images, extract_markdown_links
+from textnode import split_nodes_image, split_nodes_link
 
 class TestTextNode(unittest.TestCase):
     def test_eq(self):
@@ -112,5 +113,36 @@ class TestTextNode(unittest.TestCase):
             matches,
         )
 
+    def test_split_single_image(self):
+        node = TextNode(
+            "hello ![img](url)",
+            TextType.TEXT,
+        )
+
+        self.assertListEqual(
+            [
+                TextNode("hello ", TextType.TEXT),
+                TextNode("img", TextType.IMAGE, "url"),
+            ],
+            split_nodes_image([node]),
+        )
+
+    def test_split_single_link(self):
+        node = TextNode(
+            "go to [google](https://google.com)",
+            TextType.TEXT,
+        )
+
+        self.assertListEqual(
+            [
+                TextNode("go to ", TextType.TEXT),
+                TextNode(
+                    "google",
+                    TextType.LINK,
+                    "https://google.com",
+                ),
+            ],
+            split_nodes_link([node]),
+        )
 if __name__ == "__main__":
     unittest.main()
