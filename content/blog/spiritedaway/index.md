@@ -1,4 +1,4 @@
-# Why Glorfindel is More Impressive than Legolas
+# Why Spirited Away Is Miyazaki's Masterpiece
 
 [< Back Home](/)
 

@@ -1,43 +1,43 @@
 # Hayao Miyazaki Fan Club
 
-![Tolkien sitting](/images/tolkien.png)
+![Miyazaki](/images/miyazaki.png)
 
 Here's the deal, **I like Miyazaki**.
 
-> "I am in fact a Hobbit in all but size."
+> "Always believe in yourself. Do this and no matter where you are, you will have nothing to fear."
 >
-> -- J.R.R. Tolkien
+> -- Hayao Miyazaki
 
 ## Blog posts
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+- [Why Spirited Away Is Miyazaki's Masterpiece](/blog/spiritedaway)
+- [The Environmental Themes of Princess Mononoke](/blog/mononoke)
+- [How My Neighbor Totoro Changed Animation Forever](/blog/totoro)
 
-## Reasons I like Tolkien
+## Reasons I like Miyazaki
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+- His films reward repeated viewings with new details and meanings
+- He helped transform animation into a respected artistic medium
+- His stories trust audiences to think for themselves
+- His work blends fantasy, nature, and humanity in a unique way
 
 ## My favorite characters (in order)
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+1. Spirited Away
+2. Princess Mononoke
+3. Howl's Moving Castle
+4. My Neighbor Totoro
+5. Nausicaä of the Valley of the Wind
+6. Kiki's Delivery Service
+7. The Wind Rises
+8. Castle in the Sky
+9. Ponyo
 
-Here's what `elflang` looks like (the perfect coding language):
+Here's what `ghiblilang` looks like (the perfect coding language):
 
 ```
-func main(){
-    fmt.Println("Aiya, Ambar!")
+dream main(){
+    fly("The wind is rising!")
 }
 ```
 
