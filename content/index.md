@@ -1,8 +1,8 @@
-# Tolkien Fan Club
+# Hayao Miyazaki Fan Club
 
 ![Tolkien sitting](/images/tolkien.png)
 
-Here's the deal, **I like Tolkien**.
+Here's the deal, **I like Miyazaki**.
 
 > "I am in fact a Hobbit in all but size."
 >

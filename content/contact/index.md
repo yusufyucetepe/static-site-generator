@@ -2,8 +2,7 @@
 
 [< Back Home](/)
 
-Give me a call anytime to chat about Tolkien!
+Give me a call anytime to chat about Miyazaki!
 
 `555-555-5555`
 
-**"Váya márië."**
